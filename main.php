@@ -35,7 +35,7 @@ function clearCache() {
 
 // Function to format console output
 function formatOutput($data) {
-    $status = isset($data['status']) ? $data['status'] : 'unknown';
+    $status = isset($data['status']) ? $data['status'] : 'success';
     $color = $status === 'success' ? "\033[32m" : "\033[31m";
     $reset = "\033[0m";
     
@@ -48,8 +48,14 @@ function formatOutput($data) {
     );
 }
 
+// Sample configuration
+$sourceName = "ExchangeAPI";
+$symbols = ["EUR/USD", "GBP/USD", "JPY/USD"];
+
 // Main loop
-echo "Starting dynamic function monitor (Press Ctrl+C to stop)" . PHP_EOL;
+echo "Starting rate monitor (Press Ctrl+C to stop)" . PHP_EOL;
+echo "Source: {$sourceName}" . PHP_EOL;
+echo "Symbols: " . implode(", ", $symbols) . PHP_EOL;
 echo "----------------------------------------" . PHP_EOL;
 
 while ($running) {
@@ -77,14 +83,14 @@ while ($running) {
         eval($wrapped_code);
         
         // Get the fully qualified function name
-        $function = "\\{$namespace}\\getDynamicData";
+        $function = "\\{$namespace}\\getRate";
         
         if (!function_exists($function)) {
-            throw new Exception("getDynamicData function not found!");
+            throw new Exception("getRate function not found!");
         }
         
         // Execute the function and display results
-        $result = $function();
+        $result = $function($sourceName, $symbols);
         echo formatOutput($result) . PHP_EOL;
         
         // Process signals if available
