@@ -27,20 +27,61 @@ function formatBytes($bytes, $precision = 2) {
     return round($bytes / pow(1024, $pow), $precision) . ' ' . $units[$pow];
 }
 
+// Helper function to fetch base rates
+function fetchBaseRates($symbols) {
+    // Simulate API call or database query
+    return array_combine(
+        $symbols,
+        array_map(function() {
+            return round(rand(1, 100) / rand(1, 10), 4);
+        }, $symbols)
+    );
+}
+
+// Helper function to apply market adjustments
+function applyMarketAdjustments($rates) {
+    // Simulate market conditions affecting rates
+    return array_map(function($rate) {
+        $adjustment = (rand(-50, 50) / 1000); // Random adjustment ±5%
+        return round($rate * (1 + $adjustment), 4);
+    }, $rates);
+}
+
+// Helper function to add metadata
+function addMetadata($rates) {
+    return array_map(function($rate) {
+        return [
+            'value' => $rate,
+            'last_updated' => date('Y-m-d H:i:s'),
+            'confidence' => rand(85, 100) . '%'
+        ];
+    }, $rates);
+}
+
 function getRate($sourceName, $symbols) {
-    // This is a sample implementation
-    // You can modify this function while the main script is running
-    // and changes will be reflected in real-time
-    
-    return [
-        'source' => $sourceName,
-        'symbols' => $symbols,
-        'rates' => array_combine(
-            $symbols,
-            array_map(function() {
-                return round(rand(1, 100) / rand(1, 10), 4);
-            }, $symbols)
-        ),
-        'timestamp' => date('Y-m-d H:i:s')
-    ];
+    try {
+        // Get base rates
+        $baseRates = fetchBaseRates($symbols);
+        
+        // Apply market adjustments
+        $adjustedRates = applyMarketAdjustments($baseRates);
+        
+        // Add metadata to each rate
+        $ratesWithMetadata = addMetadata($adjustedRates);
+        
+        return [
+            'source' => $sourceName,
+            'symbols' => $symbols,
+            'rates' => $ratesWithMetadata,
+            'timestamp' => date('Y-m-d H:i:s'),
+            'status' => 'success'
+        ];
+    } catch (Exception $e) {
+        return [
+            'source' => $sourceName,
+            'status' => 'error',
+            'message' => $e->getMessage(),
+            'timestamp' => date('Y-m-d H:i:s')
+        ];
+    }
 } 
