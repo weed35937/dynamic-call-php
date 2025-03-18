@@ -1,14 +1,19 @@
-# Dynamic Calculator Monitor
+# Dynamic Function Monitor
 
-A real-time PHP calculator that allows you to modify class methods while the script is running. Changes are detected and applied instantly without needing to restart the script.
+A PHP application that allows real-time modification and monitoring of functions without restarting the script.
+
+## Features
+
+- Real-time function updates without script restart
+- Dynamic function execution with namespace isolation
+- Built-in error handling and graceful shutdown
+- Support for multiple calculations (sum, square, etc.)
+- Live output with timestamp
 
 ## Files
 
-```
-.
-├── main.php    # Monitor script that watches for changes
-└── script.php  # Calculator class with modifiable methods
-```
+- `main.php`: The main script that monitors and executes functions
+- `script.php`: Contains the modifiable functions
 
 ## Usage
 
@@ -17,28 +22,47 @@ A real-time PHP calculator that allows you to modify class methods while the scr
 php main.php
 ```
 
-2. Modify `script.php` while the monitor is running.
+2. Modify functions in `script.php` while the script is running. Changes are detected automatically.
 
 ## Example Output
 
 ```
-[2025-03-18 18:24:41]
+Dynamic Function Monitor Started
+----------------------------------------
+Testing dynamic getRate function:
+Sum of 5 + 3 = 8
+----------------------------------------
+[2024-03-18 10:30:45]
   Number    : 5
   Sum       : 15
   Square    : 25
+  Triple    : 125
 ```
 
-## Features
+## Modifying Functions
 
-- **Real-time Updates**: Changes are reflected immediately
-- **Live Implementation View**: See your current code
-- **Clean Output**: Formatted results with timestamps
+You can modify any function in `script.php` while the monitor is running. For example:
 
-## Requirements
+1. Change the `getRate` function:
+```php
+function getRate($a, $b) {
+    return $a * $b;  // Changed from addition to multiplication
+}
+```
 
-- PHP 7.0 or higher
-- Write permissions in the script directory
+2. Add new calculations to `processResult`:
+```php
+function processResult($n) {
+    return [
+        'number' => $n,
+        'sum' => calculateSum($n),
+        'square' => $n * $n,
+        'triple' => $n * $n * $n,
+        'custom' => $n * 2,  // Add new calculations
+    ];
+}
+```
 
-## Stopping
+## Stopping the Monitor
 
-Press `Ctrl+C` to stop the monitor. 
+Press Ctrl+C to gracefully stop the monitor. 
