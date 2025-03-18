@@ -1,0 +1,228 @@
+[2025-03-18 17:28:21] [INFO] Starting rate request req_67d9ad3564a4f for source: ExchangeAPI
+[2025-03-18 17:28:21] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:21] [INFO] Completed rate request req_67d9ad3564a4f in 1ms
+[2025-03-18 17:28:23] [INFO] Starting rate request req_67d9ad3768cf0 for source: ExchangeAPI
+[2025-03-18 17:28:23] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:23] [INFO] Completed rate request req_67d9ad3768cf0 in 1ms
+[2025-03-18 17:28:25] [INFO] Starting rate request req_67d9ad396b629 for source: ExchangeAPI
+[2025-03-18 17:28:25] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:25] [INFO] Completed rate request req_67d9ad396b629 in 2ms
+[2025-03-18 17:28:27] [INFO] Starting rate request req_67d9ad3b6ea41 for source: ExchangeAPI
+[2025-03-18 17:28:27] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:27] [INFO] Completed rate request req_67d9ad3b6ea41 in 0ms
+[2025-03-18 17:28:29] [INFO] Starting rate request req_67d9ad3d73382 for source: ExchangeAPI
+[2025-03-18 17:28:29] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:29] [INFO] Completed rate request req_67d9ad3d73382 in 1ms
+[2025-03-18 17:28:31] [INFO] Starting rate request req_67d9ad3f77c63 for source: ExchangeAPI
+[2025-03-18 17:28:31] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:31] [INFO] Completed rate request req_67d9ad3f77c63 in 0ms
+[2025-03-18 17:28:33] [INFO] Starting rate request req_67d9ad417a478 for source: ExchangeAPI
+[2025-03-18 17:28:33] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:33] [INFO] Completed rate request req_67d9ad417a478 in 1ms
+[2025-03-18 17:28:35] [INFO] Starting rate request req_67d9ad437be1f for source: ExchangeAPI
+[2025-03-18 17:28:35] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:35] [INFO] Completed rate request req_67d9ad437be1f in 1ms
+[2025-03-18 17:28:37] [INFO] Starting rate request req_67d9ad457d7d5 for source: ExchangeAPI
+[2025-03-18 17:28:37] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:37] [INFO] Completed rate request req_67d9ad457d7d5 in 1ms
+[2025-03-18 17:28:39] [INFO] Starting rate request req_67d9ad4782700 for source: ExchangeAPI
+[2025-03-18 17:28:39] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:39] [INFO] Completed rate request req_67d9ad4782700 in 0ms
+[2025-03-18 17:28:41] [INFO] Starting rate request req_67d9ad49838b1 for source: ExchangeAPI
+[2025-03-18 17:28:41] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:41] [INFO] Completed rate request req_67d9ad49838b1 in 0ms
+[2025-03-18 17:28:43] [INFO] Starting rate request req_67d9ad4b84f38 for source: ExchangeAPI
+[2025-03-18 17:28:43] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:43] [INFO] Completed rate request req_67d9ad4b84f38 in 0ms
+[2025-03-18 17:28:45] [INFO] Starting rate request req_67d9ad4d864bd for source: ExchangeAPI
+[2025-03-18 17:28:45] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:45] [INFO] Completed rate request req_67d9ad4d864bd in 0ms
+[2025-03-18 17:28:47] [INFO] Starting rate request req_67d9ad4f87573 for source: ExchangeAPI
+[2025-03-18 17:28:47] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:47] [INFO] Completed rate request req_67d9ad4f87573 in 1ms
+[2025-03-18 17:28:49] [INFO] Starting rate request req_67d9ad5189765 for source: ExchangeAPI
+[2025-03-18 17:28:49] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:49] [INFO] Completed rate request req_67d9ad5189765 in 1ms
+[2025-03-18 17:28:51] [INFO] Starting rate request req_67d9ad538d6c9 for source: ExchangeAPI
+[2025-03-18 17:28:51] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:51] [INFO] Completed rate request req_67d9ad538d6c9 in 1ms
+[2025-03-18 17:28:53] [INFO] Starting rate request req_67d9ad558f1a1 for source: ExchangeAPI
+[2025-03-18 17:28:53] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:53] [INFO] Completed rate request req_67d9ad558f1a1 in 1ms
+[2025-03-18 17:28:55] [INFO] Starting rate request req_67d9ad57911c9 for source: ExchangeAPI
+[2025-03-18 17:28:55] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:55] [INFO] Completed rate request req_67d9ad57911c9 in 0ms
+[2025-03-18 17:28:57] [INFO] Starting rate request req_67d9ad5993a8f for source: ExchangeAPI
+[2025-03-18 17:28:57] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:57] [INFO] Completed rate request req_67d9ad5993a8f in 1ms
+[2025-03-18 17:28:59] [INFO] Starting rate request req_67d9ad5b98f4c for source: ExchangeAPI
+[2025-03-18 17:28:59] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:28:59] [INFO] Completed rate request req_67d9ad5b98f4c in 0ms
+[2025-03-18 17:29:01] [INFO] Starting rate request req_67d9ad5d9b15e for source: ExchangeAPI
+[2025-03-18 17:29:01] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:01] [INFO] Completed rate request req_67d9ad5d9b15e in 1ms
+[2025-03-18 17:29:03] [INFO] Starting rate request req_67d9ad5f9e625 for source: ExchangeAPI
+[2025-03-18 17:29:03] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:03] [INFO] Completed rate request req_67d9ad5f9e625 in 1ms
+[2025-03-18 17:29:05] [INFO] Starting rate request req_67d9ad61a3582 for source: ExchangeAPI
+[2025-03-18 17:29:05] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:05] [INFO] Completed rate request req_67d9ad61a3582 in 1ms
+[2025-03-18 17:29:07] [INFO] Starting rate request req_67d9ad63a88e4 for source: ExchangeAPI
+[2025-03-18 17:29:07] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:07] [INFO] Completed rate request req_67d9ad63a88e4 in 1ms
+[2025-03-18 17:29:09] [INFO] Starting rate request req_67d9ad65aa998 for source: ExchangeAPI
+[2025-03-18 17:29:09] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:09] [INFO] Completed rate request req_67d9ad65aa998 in 1ms
+[2025-03-18 17:29:11] [INFO] Starting rate request req_67d9ad67ace30 for source: ExchangeAPI
+[2025-03-18 17:29:11] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:11] [INFO] Completed rate request req_67d9ad67ace30 in 1ms
+[2025-03-18 17:29:13] [INFO] Starting rate request req_67d9ad69af2b3 for source: ExchangeAPI
+[2025-03-18 17:29:13] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:13] [INFO] Completed rate request req_67d9ad69af2b3 in 1ms
+[2025-03-18 17:29:15] [INFO] Starting rate request req_67d9ad6bb3dfc for source: ExchangeAPI
+[2025-03-18 17:29:15] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:15] [INFO] Completed rate request req_67d9ad6bb3dfc in 1ms
+[2025-03-18 17:29:17] [INFO] Starting rate request req_67d9ad6db9237 for source: ExchangeAPI
+[2025-03-18 17:29:17] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:17] [INFO] Completed rate request req_67d9ad6db9237 in 0ms
+[2025-03-18 17:29:19] [INFO] Starting rate request req_67d9ad6fb9c57 for source: ExchangeAPI
+[2025-03-18 17:29:19] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:19] [INFO] Completed rate request req_67d9ad6fb9c57 in 0ms
+[2025-03-18 17:29:21] [INFO] Starting rate request req_67d9ad71be269 for source: ExchangeAPI
+[2025-03-18 17:29:21] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:21] [INFO] Completed rate request req_67d9ad71be269 in 1ms
+[2025-03-18 17:29:23] [INFO] Starting rate request req_67d9ad73c1c00 for source: ExchangeAPI
+[2025-03-18 17:29:23] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:23] [INFO] Completed rate request req_67d9ad73c1c00 in 1ms
+[2025-03-18 17:29:25] [INFO] Starting rate request req_67d9ad75c368d for source: ExchangeAPI
+[2025-03-18 17:29:25] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:25] [INFO] Completed rate request req_67d9ad75c368d in 0ms
+[2025-03-18 17:29:27] [INFO] Starting rate request req_67d9ad77c7573 for source: ExchangeAPI
+[2025-03-18 17:29:27] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:27] [INFO] Completed rate request req_67d9ad77c7573 in 1ms
+[2025-03-18 17:29:29] [INFO] Starting rate request req_67d9ad79c9a24 for source: ExchangeAPI
+[2025-03-18 17:29:29] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:29] [INFO] Completed rate request req_67d9ad79c9a24 in 0ms
+[2025-03-18 17:29:31] [INFO] Starting rate request req_67d9ad7bcd9ff for source: ExchangeAPI
+[2025-03-18 17:29:31] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:31] [INFO] Completed rate request req_67d9ad7bcd9ff in 1ms
+[2025-03-18 17:29:33] [INFO] Starting rate request req_67d9ad7dd22d9 for source: ExchangeAPI
+[2025-03-18 17:29:33] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:33] [INFO] Completed rate request req_67d9ad7dd22d9 in 1ms
+[2025-03-18 17:29:35] [INFO] Starting rate request req_67d9ad7fd80e0 for source: ExchangeAPI
+[2025-03-18 17:29:35] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:35] [INFO] Completed rate request req_67d9ad7fd80e0 in 1ms
+[2025-03-18 17:29:37] [INFO] Starting rate request req_67d9ad81dac46 for source: ExchangeAPI
+[2025-03-18 17:29:37] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:37] [INFO] Completed rate request req_67d9ad81dac46 in 1ms
+[2025-03-18 17:29:39] [INFO] Starting rate request req_67d9ad83dd7a0 for source: ExchangeAPI
+[2025-03-18 17:29:39] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:39] [INFO] Completed rate request req_67d9ad83dd7a0 in 1ms
+[2025-03-18 17:29:41] [INFO] Starting rate request req_67d9ad85e1808 for source: ExchangeAPI
+[2025-03-18 17:29:41] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:41] [INFO] Completed rate request req_67d9ad85e1808 in 1ms
+[2025-03-18 17:29:43] [INFO] Starting rate request req_67d9ad87e6dc4 for source: ExchangeAPI
+[2025-03-18 17:29:43] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:43] [INFO] Completed rate request req_67d9ad87e6dc4 in 1ms
+[2025-03-18 17:29:45] [INFO] Starting rate request req_67d9ad89eb724 for source: ExchangeAPI
+[2025-03-18 17:29:45] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:45] [INFO] Completed rate request req_67d9ad89eb724 in 1ms
+[2025-03-18 17:29:47] [INFO] Starting rate request req_67d9ad8bf09d7 for source: ExchangeAPI
+[2025-03-18 17:29:47] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:47] [INFO] Completed rate request req_67d9ad8bf09d7 in 0ms
+[2025-03-18 17:29:49] [INFO] Starting rate request req_67d9ad8df37e7 for source: ExchangeAPI
+[2025-03-18 17:29:49] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:49] [INFO] Completed rate request req_67d9ad8df37e7 in 0ms
+[2025-03-18 17:29:52] [INFO] Starting rate request req_67d9ad90017f1 for source: ExchangeAPI
+[2025-03-18 17:29:52] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:52] [INFO] Completed rate request req_67d9ad90017f1 in 1ms
+[2025-03-18 17:29:54] [INFO] Starting rate request req_67d9ad9206030 for source: ExchangeAPI
+[2025-03-18 17:29:54] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:54] [INFO] Completed rate request req_67d9ad9206030 in 1ms
+[2025-03-18 17:29:56] [INFO] Starting rate request req_67d9ad9409e7c for source: ExchangeAPI
+[2025-03-18 17:29:56] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:56] [INFO] Completed rate request req_67d9ad9409e7c in 1ms
+[2025-03-18 17:29:58] [INFO] Starting rate request req_67d9ad960e55e for source: ExchangeAPI
+[2025-03-18 17:29:58] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:29:58] [INFO] Completed rate request req_67d9ad960e55e in 1ms
+[2025-03-18 17:30:00] [INFO] Starting rate request req_67d9ad9813793 for source: ExchangeAPI
+[2025-03-18 17:30:00] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:00] [INFO] Completed rate request req_67d9ad9813793 in 1ms
+[2025-03-18 17:30:02] [INFO] Starting rate request req_67d9ad9a15db9 for source: ExchangeAPI
+[2025-03-18 17:30:02] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:02] [INFO] Completed rate request req_67d9ad9a15db9 in 1ms
+[2025-03-18 17:30:04] [INFO] Starting rate request req_67d9ad9c1acd9 for source: ExchangeAPI
+[2025-03-18 17:30:04] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:04] [INFO] Completed rate request req_67d9ad9c1acd9 in 1ms
+[2025-03-18 17:30:06] [INFO] Starting rate request req_67d9ad9e2016b for source: ExchangeAPI
+[2025-03-18 17:30:06] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:06] [INFO] Completed rate request req_67d9ad9e2016b in 1ms
+[2025-03-18 17:30:08] [INFO] Starting rate request req_67d9ada0235de for source: ExchangeAPI
+[2025-03-18 17:30:08] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:08] [INFO] Completed rate request req_67d9ada0235de in 1ms
+[2025-03-18 17:30:10] [INFO] Starting rate request req_67d9ada227355 for source: ExchangeAPI
+[2025-03-18 17:30:10] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:10] [INFO] Completed rate request req_67d9ada227355 in 1ms
+[2025-03-18 17:30:12] [INFO] Starting rate request req_67d9ada42b3ac for source: ExchangeAPI
+[2025-03-18 17:30:12] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:12] [INFO] Completed rate request req_67d9ada42b3ac in 1ms
+[2025-03-18 17:30:14] [INFO] Starting rate request req_67d9ada62d54c for source: ExchangeAPI
+[2025-03-18 17:30:14] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:14] [INFO] Completed rate request req_67d9ada62d54c in 1ms
+[2025-03-18 17:30:16] [INFO] Starting rate request req_67d9ada8337b1 for source: ExchangeAPI
+[2025-03-18 17:30:16] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:16] [INFO] Completed rate request req_67d9ada8337b1 in 1ms
+[2025-03-18 17:30:18] [INFO] Starting rate request req_67d9adaa36004 for source: ExchangeAPI
+[2025-03-18 17:30:18] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:18] [INFO] Completed rate request req_67d9adaa36004 in 1ms
+[2025-03-18 17:30:20] [INFO] Starting rate request req_67d9adac3a192 for source: ExchangeAPI
+[2025-03-18 17:30:20] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:20] [INFO] Completed rate request req_67d9adac3a192 in 1ms
+[2025-03-18 17:30:22] [INFO] Starting rate request req_67d9adae3e8ce for source: ExchangeAPI
+[2025-03-18 17:30:22] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:22] [INFO] Completed rate request req_67d9adae3e8ce in 0ms
+[2025-03-18 17:30:24] [INFO] Starting rate request req_67d9adb040afe for source: ExchangeAPI
+[2025-03-18 17:30:24] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:24] [INFO] Completed rate request req_67d9adb040afe in 1ms
+[2025-03-18 17:30:26] [INFO] Starting rate request req_67d9adb2437ea for source: ExchangeAPI
+[2025-03-18 17:30:26] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:26] [INFO] Completed rate request req_67d9adb2437ea in 1ms
+[2025-03-18 17:30:28] [INFO] Starting rate request req_67d9adb4485ba for source: ExchangeAPI
+[2025-03-18 17:30:28] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:28] [INFO] Completed rate request req_67d9adb4485ba in 0ms
+[2025-03-18 17:30:30] [INFO] Starting rate request req_67d9adb64b867 for source: ExchangeAPI
+[2025-03-18 17:30:30] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:30] [INFO] Completed rate request req_67d9adb64b867 in 1ms
+[2025-03-18 17:30:32] [INFO] Starting rate request req_67d9adb84e5de for source: ExchangeAPI
+[2025-03-18 17:30:32] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:32] [INFO] Completed rate request req_67d9adb84e5de in 1ms
+[2025-03-18 17:30:34] [INFO] Starting rate request req_67d9adba53dee for source: ExchangeAPI
+[2025-03-18 17:30:34] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:34] [INFO] Completed rate request req_67d9adba53dee in 1ms
+[2025-03-18 17:30:36] [INFO] Starting rate request req_67d9adbc56547 for source: ExchangeAPI
+[2025-03-18 17:30:36] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:36] [INFO] Completed rate request req_67d9adbc56547 in 1ms
+[2025-03-18 17:30:38] [INFO] Starting rate request req_67d9adbe59197 for source: ExchangeAPI
+[2025-03-18 17:30:38] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:38] [INFO] Completed rate request req_67d9adbe59197 in 1ms
+[2025-03-18 17:30:40] [INFO] Starting rate request req_67d9adc05b7e3 for source: ExchangeAPI
+[2025-03-18 17:30:40] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:40] [INFO] Completed rate request req_67d9adc05b7e3 in 1ms
+[2025-03-18 17:30:42] [INFO] Starting rate request req_67d9adc25dec7 for source: ExchangeAPI
+[2025-03-18 17:30:42] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:42] [INFO] Completed rate request req_67d9adc25dec7 in 1ms
+[2025-03-18 17:30:44] [INFO] Starting rate request req_67d9adc462505 for source: ExchangeAPI
+[2025-03-18 17:30:44] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:44] [INFO] Completed rate request req_67d9adc462505 in 0ms
+[2025-03-18 17:30:46] [INFO] Starting rate request req_67d9adc664e86 for source: ExchangeAPI
+[2025-03-18 17:30:46] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:46] [INFO] Completed rate request req_67d9adc664e86 in 1ms
+[2025-03-18 17:30:48] [INFO] Starting rate request req_67d9adc86a5f0 for source: ExchangeAPI
+[2025-03-18 17:30:48] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:48] [INFO] Completed rate request req_67d9adc86a5f0 in 1ms
+[2025-03-18 17:30:50] [INFO] Starting rate request req_67d9adca6f4de for source: ExchangeAPI
+[2025-03-18 17:30:50] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:50] [INFO] Completed rate request req_67d9adca6f4de in 0ms
+[2025-03-18 17:30:52] [INFO] Starting rate request req_67d9adcc73f47 for source: ExchangeAPI
+[2025-03-18 17:30:52] [INFO] Fetching base rates for EUR/USD,GBP/USD,JPY/USD
+[2025-03-18 17:30:52] [INFO] Completed rate request req_67d9adcc73f47 in 1ms
